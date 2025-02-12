@@ -1,5 +1,5 @@
 # -SISTEM-DE-MONITORIZARE-AL-NIVELULUI-DE-OXIGEN-I-AL-TEMPERATURII
-SCOPUL PROIECTULUI SI DESCRIEREA TEHNICA: 
+# SCOPUL PROIECTULUI SI DESCRIEREA TEHNICA: 
 
 Scopul proiectului constă în automatizarea unui senzor de temperatura și umiditate(DH11) și al unui senzor pentru determinarea calității aerului la detectarea mișcării printr-un senzor IR și alertarea prin leduri și printr-un buzzer pentru semnalul acustic. 
 
@@ -7,7 +7,7 @@ Scopul proiectului constă în automatizarea unui senzor de temperatura și umid
 O dată amplasat senzorul de temperatură și senzorul pentru determinarea calității aerului, dacă se detectează mișcare prin senzorul IR, se afișează pe un ecran LCD în timp real, valorile temperaturii, umidității și ale calității aerului din încăpere, fiecare dintre acestea fiind mai apoi comparate cu niște valori standard. Dacă temperatura, umiditatea sau calitatea aerului este sub aceste valori sau le depășește, se iluminează un led corespunzător și se va emite un semnal sonor cu ajutorul buzzer-ului.
 
 
-DOMENIUL DE APLICAȚIE: 
+# DOMENIUL DE APLICAȚIE: 
 Îngrijirea sănătății: Proiectul se poate folosi în scopuri medicale pentru monitorizarea umidității,temperaturii și calității aerului în spațiile de îngrijire medicală, cum ar fi camerele de spital sau spațiile de recuperare.
 
 Monitorizarea calității aerului în interior: Proiectul se mai poate folosi pentru a evalua calitatea aerului în locuințe, birouri, școli, sau în orice încăpere în care acest factor poate influența confortul și sănătatea oamenilor.
@@ -15,7 +15,7 @@ Monitorizarea calității aerului în interior: Proiectul se mai poate folosi pe
 Spații de recreere: Proiectul poate fi utilizat de asemenea, pentru a monitoriza umiditatea, calitatea aerului și temperatura în săli de fitness, săli de sport sau în orice alt mediu în care acestea pot influența performanța fizică.
 
 
-VALORI  IDEALE: 
+# VALORI  IDEALE: 
 Temperatura: O temperatură ambientală confortabilă se situează între 18 și 24 de grade Celsius pentru majoritatea oamenilor. 
 
 Umiditatea: Un nivel de umiditate ideal este în jurul valorii de 40% - 60%. Un procent mai scăzut de 30% poate fi prea uscat, în timp ce un procent mai mare de 60% poate fi prea umed. 
